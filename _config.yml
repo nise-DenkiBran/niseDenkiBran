@@ -16,7 +16,7 @@ url: https://nise-denkibran.github.io/niseDenkiBran/
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /niseDenkiBran/
+baseurl: /niseDenkiBran
 
 #
 # 下面的设定都是可选的
@@ -31,7 +31,7 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 # 菜单中的按钮
 navigation:
   - name: 首页
-    url: /https://nise-denkibran.github.io/niseDenkiBran/
+    url: /https://nise-denkibran.github.io/niseDenkiBran
   - name: 关于
     url: /about
   - name: 归档
